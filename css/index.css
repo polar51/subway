@@ -247,7 +247,9 @@ h1 {text-align: center ; padding:30px 0px; }
 #main .subwaymenu .content li p{
     font-size: 13px;
     color: 13px;
-    padding: 15px 20px 0;
+    padding: 15px 30px 0;
+    transition:all 0.5s;
+    word-break:keep-all;
 }
 #main .subwaymenu .content li img{
     transition: all 0.5s;
